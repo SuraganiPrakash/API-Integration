@@ -96,7 +96,7 @@ The JavaScript function `getWeather()` is triggered when the user clicks the but
 
 By combining these technologies and features, you can build an interactive and user-friendly weather application that fetches and displays real-time data efficiently across all devices.
 
-
+---
 
 # API INTIGRATION OUTPUT :
 
